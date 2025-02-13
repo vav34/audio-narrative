@@ -1,10 +1,23 @@
 # audio-narrative
  all project materials related to the audio narrative unit
 Summary:
-This introduction first explains what the Danganronpa series entails as a general guideline of the mainline games in order to familiarize listeners who were not already familiar with the series. A brief explanation of the mechanics and format of the game is addressed. Next contains a brief introduction of the character of focus for this audio narrative--Kokichi Oma. His role in the game as an antagonist is addressed, as well as some key defining features of his character. This sets up the narrative by explaining what I plan to discuss as well as introducing the Danganronpa series as a whole.
+The video introduction first explains what the Danganronpa series entails as a general guideline of the mainline games in order to familiarize listeners who were not already familiar with the series. A brief explanation of the mechanics and format of the game is addressed. Next contains a brief introduction of the character of focus for this audio narrative--Kokichi Oma. His role in the game as an antagonist is addressed, as well as some key defining features of his character. The relevance of why the audience should care about this topic/why it matters is briefly addressed (will be touched more upon in the conclusion). This sets up the narrative by explaining what I plan to discuss as well as introducing the Danganronpa series as a whole.
+I next walk through the events of the game considering Kokichi’s perspective. Throughout the entire video, music and sound effects from the game are used to set the mood and serve as nostalgia for Danganronpa fans. My primary source of information is, you guessed it, the game Danganronpa V3: Killing Harmony itself! I end the video wrapping up why Kokichi’s character is important for understanding the series as a whole.
+This process has been so much fun for me, as Danganronpa is my favorite game series of all time! Playing around with which tracks and sound effects to use as well as which Kokichi scenes to discuss was very fun and difficult at times. Ideally, I would like to talk about this for much longer than 10 minutes–alas this is for a class, and the time limit is very understandable and appropriate. The feedback I received from my peers as well as the professor was the idea of why it mattered to talk about this. It helped me consider the overall purpose of Kokichi’s inclusion in the series and how he shapes the game he was included in respectively.
 
 Credits:
-"Pythagoras" by Podington Bear https://freemusicarchive.org/music/Podington_Bear/Background/Pythagoras/
-"Jester" by Podington Bear https://freemusicarchive.org/music/Podington_Bear/Background/Jester/
-"Happy Chord" by lloydrichards https://freesound.org/people/lloydrichards/sounds/679964/
-
+Music
+"DANGANRONPA V3" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/1-01.%2520DANGANRONPA%2520V3.mp3
+"Chapter A" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/1-08.%2520Chapter%2520A.mp3
+"Beautiful Lie" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/1-12.%2520Beautiful%2520Lie.mp3
+"Rise and Shine, Ursine!" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/1-07.%2520Rise%2520and%2520Shine%252C%2520Ursine%2521.mp3
+"Living in a Lazy Parallel World" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/1-16.%2520Living%2520in%2520a%2520Lazy%2520Parallel%2520World.mp3
+"Dead Body Found C" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/2-13.%2520Dead%2520Body%2520Found%2520C.mp3
+"Real - Fiction" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/2-14.%2520Real%2520-%2520Fiction.mp3
+"Heaven of Almost Hell" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/1-23.%2520Heaven%2520of%2520Almost%2520Hell.mp3
+"Closing Argument V3" by Masufumi Takada, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://downloads.khinsider.com/game-soundtracks/album/new-danganronpa-v3-o.s.t.-white/2-22.%2520Closing%2520Argument%2520V3.mp3
+Sound Effects
+All pulled from "Danganronpa Trigger Happy Havoc" by Spike Chunsoft, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) https://www.sounds-resource.com/pc_computer/danganronpatriggerhappyhavoc/sound/20622/
+Files: "HS_SE_001" and "HS_SE_003"
+Story
+"Danganronpa V3: Killing Harmony" by Spike Chunsoft, licensed under Creative Commons Attribution-Share Alike License 3.0 (Unported) (CC-BY-SA) 
